@@ -4,12 +4,12 @@ echo '{
       SimSearch (
         limit: 3
         nearText: {
-          concepts: [\"physics\"],
+          concepts: [\"computer science\"],
         }
       ){
-        question
-        answer
-        category
+        school
+        coursename
+        coursedesc
       }
     }
   }"

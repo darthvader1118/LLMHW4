@@ -33,9 +33,9 @@ with client.batch as batch:
         print(f"\nimporting datum: {i}")
 
         properties = {
-            "answer": d["Answer"],
-            "question": d["Question"],
-            "category": d["Category"],
+            "school": d["School"],
+            "coursename": d["CourseName"],
+            "coursedesc": d["CourseDesc"],
         }
         print(f"properties: {properties}")
 

@@ -1,12 +1,11 @@
-[{"School":"USC","Question":"This organ removes excess glucose from the blood & stores it as glycogen","Answer":"Liver"}
-,{"School":"UCLA","Question":"It's the only living mammal in the order Proboseidea","Answer":"Elephant"}
-,{"School":"Rutgers","Question":"The gavial looks very much like a crocodile except for this bodily feature","Answer":"the nose or snout"}
-,{"School":"UMich","Question":"Weighing around a ton, the eland is the largest species of this animal in Africa","Answer":"Antelope"}
-,{"School":"","Question":"Heaviest of all poisonous snakes is this North American rattlesnake","Answer":"the diamondback rattler"}
-,{"School":"SCIENCE","Question":"2000 news: the Gunnison sage grouse isn't just another northern sage grouse, but a new one of this classification","Answer":"species"}
-,{"School":"SCIENCE","Question":"A metal that is ductile can be pulled into this while cold & under pressure","Answer":"wire"}
-,{"School":"SCIENCE","Question":"In 1953 Watson & Crick built a model of the molecular structure of this, the gene-carrying substance","Answer":"DNA"}
-,{"School":"SCIENCE","Question":"Changes in the tropospheric layer of this are what gives us weather","Answer":"the atmosphere"}
-,{"School":"SCIENCE","Question":"In 70-degree air, a plane traveling at about 1,130 feet per second breaks it","Answer":"Sound barrier"}
-,{"School":"SCIENCE","Question":"In 70-degree air, a plane traveling at about 1,130 feet per second breaks it","Answer":"Sound barrier"}
-,{"School":"FILM","Question":"This is the name of the Donkey in Shrek","Answer":"Donkey"}]
+[{"School":"USC","CourseName":"Data Structures","CourseDesc":"Studies data structures used to hold data in computer science"}
+,{"School":"UCLA","CourseName":"Analysis of Algorithms","CourseDesc":"Studies complex algorithms to used to run large order processes in programs"}
+,{"School":"Rutgers","CourseName":"Quantum Mechanics","CourseDesc":"the study of physics that explains how very small objects can have the characteristics of both particles and waves. This is called wave-particle duality"}
+,{"School":"UMich","CourseName":"International Political Economics","CourseDesc":"Economics of international political policy "}
+,{"School":"Ole Miss","CourseName":"Geology 101","CourseDesc":"introductory study of rock formations and earth composition"}
+,{"School":"Alabama","CourseName":"Introduction to Judeo-Chrsitan studies","CourseDesc":"Introductory course of judeo-christian theology and how it shaped cultures"}
+,{"School":"LSU","CourseName":"Public Speaking","CourseDesc":"Introductory course on how to give public talks and give speeches in front of crowds"}
+,{"School":"Berkeley","CourseName":"Discrete Mathematics","CourseDesc":"This course serves as an introduction to the fundamental concepts and principles that underlie much of computer science, information theory, and various branches of mathematics. Discrete Mathematics focuses on the study of discrete structures, which are essential in solving real-world problems and building the foundation for advanced mathematical and computational thinking"}
+,{"School":"Penn State","CourseName":"Multivariable Calculus","CourseDesc":"the atmosphere"}
+,{"School":"UNC","CourseName":"Expository Writing","CourseDesc":"Introductory course in professional essay writing"}
+,{"School":"Boulder","CourseName":"Intro to Philosophy","CourseDesc":"Introduction to western philosophy based on principles of ancient greek and roman philosophers"}]
